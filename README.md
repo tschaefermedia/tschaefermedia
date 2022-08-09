@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Business Owner @build_it_<br>🚀 E-Commerce + #Shopware Developer<br>📝 Learning and 💭 Thoughts 
+💻 Business Owner [BuildIT Consulting](https://github.com/BuildIT-Consulting)<br>🚀 E-Commerce + Shopware Developer<br>📝 Learning and 💭 Thoughts 
 
 
 ## 🌐 Socials:
