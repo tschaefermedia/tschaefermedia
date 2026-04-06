@@ -12,7 +12,7 @@
 ## 🚀 Featured Projects
 
 ### [mitkai.de](https://mitkai.de) — AI Product Description Generator
-SaaS tool that generates SEO-optimized product descriptions for **Shopware & Shopify** stores using AI. Supports CSV export, meta tag generation, and multiple AI models.
+SaaS that generates SEO-optimized product descriptions for **Shopware & Shopify** stores using AI. Supports CSV export, meta tag generation, and multiple AI models.
 
 `Laravel` `Vue 3` `AI/LLM` `Shopware` `Shopify`
 
@@ -43,14 +43,26 @@ Shopware 6 development consultancy — custom plugins, performance optimization,
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Metrics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tschaefermedia&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tschaefermedia&theme=vue-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tschaefermedia&theme=vue-dark&hide_border=true&layout=compact)
+<img src="metrics.isocalendar.svg" width="100%" alt="Contribution Calendar" />
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="metrics.languages.svg" width="100%" alt="Languages" />
+    </td>
+    <td width="50%">
+      <img src="metrics.activity.svg" width="100%" alt="Activity" />
+    </td>
+  </tr>
+</table>
+
+> Metrics generated via [lowlighter/metrics](https://github.com/lowlighter/metrics) — updated daily via GitHub Actions
 
 ---
 
@@ -59,6 +71,8 @@ Shopware 6 development consultancy — custom plugins, performance optimization,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tschaefermedia)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/tobiasschaefer_)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5414158)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tschaefermedia)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@the_programming_tobi)
 [![Website](https://img.shields.io/badge/tobias--schaefer.com-000?style=flat-square&logo=firefox&logoColor=white)](https://tobias-schaefer.com)
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=tschaefermedia&icon=1&color=9)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitor-badge.laobi.icu/badge?page_id=tschaefermedia.tschaefermedia)](https://visitor-badge.laobi.icu)
